@@ -183,7 +183,7 @@ Remove task permanently from database.
 - Full Stack CRUD Operations
 
 ---
-## Project Screenshots
+## Application Screenshots
 
 ### Pending Tasks Section
 
@@ -191,15 +191,15 @@ Remove task permanently from database.
 
 ---
 
-### Completed Tasks Section
-
-![Completed Tasks](app3.png)
-
----
-
 ### Edit Task Feature
 
 ![Edit Feature](app2.png)
+
+---
+
+### Completed Tasks Section
+
+![Completed Tasks](app3.png)
 
 ---
 
