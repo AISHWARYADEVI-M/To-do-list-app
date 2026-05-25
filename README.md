@@ -183,7 +183,29 @@ Remove task permanently from database.
 - Full Stack CRUD Operations
 
 ---
+## Project Screenshots
 
-## Author
+### Pending Tasks Section
 
-Aishwarya Devi
+![Pending Tasks](app1.png)
+
+---
+
+### Completed Tasks Section
+
+![Completed Tasks](app3.png)
+
+---
+
+### Edit Task Feature
+
+![Edit Feature](app2.png)
+
+---
+
+### SQL DATABASE
+
+![SQL Table](app4.png)
+
+---
+
