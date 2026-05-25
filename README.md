@@ -1,6 +1,6 @@
-# Full Stack Todo Management Application
+# Full Stack To-do List Application
 
-A modern Full Stack Todo Management Application built using React, Spring Boot, and MySQL.  
+A modern Full Stack To-do List Management Application built using React, Spring Boot, and MySQL.  
 This project allows users to create, update, complete, edit, and delete tasks with real-time frontend and backend synchronization.
 
 ---
